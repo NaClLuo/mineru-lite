@@ -4,6 +4,8 @@
 
 单文件 exe，约 11.7 MB，不依赖 Python、Node 或 MCP 进程，双击即用。
 
+**下载**：[Releases](https://github.com/NaClLuo/mineru-lite/releases/latest) → `MinerU-Lite-1.0.0.exe`
+
 ![界面](assets/preview.png)
 
 ## 用法
