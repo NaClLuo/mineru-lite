@@ -1,0 +1,23 @@
+# 构建产物
+build/
+dist/
+*.spec
+
+# 本地虚拟环境
+.buildenv/
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 本地会话数据
+.workbuddy/
+
+# 临时文件
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
